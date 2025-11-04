@@ -9,7 +9,7 @@ PyTorch2.5.1
 
 参数设置
 
-able 2 Parameter setting
+Parameter setting
 
 Parameter	Value
 
